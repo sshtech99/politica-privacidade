@@ -6,7 +6,7 @@ O FieldCheck-in é um aplicativo de uso estritamente corporativo e restrito (B2B
 
 ## Link Oficial da Política
 A versão formatada para leitura pode ser acessada diretamente através do link do GitHub Pages deste repositório:
-👉 **[Cole aqui o link gerado pelo seu GitHub Pages]**
+https://sshtech99.github.io/politica-privacidade/
 
 ## Contato
 Para suporte técnico ou dúvidas relacionadas ao gerenciamento de acessos do painel, entre em contato com a administração do serviço.
